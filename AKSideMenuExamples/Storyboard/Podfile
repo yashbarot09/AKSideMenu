@@ -5,4 +5,6 @@ use_frameworks!
 
 target 'AKSideMenuStoryboard' do
   pod 'AKSideMenu', :path => '../../AKSideMenu.podspec'
+pod 'AKSideMenu', :git => 'https://github.com/yashbarot09/AKSideMenu.git', :commit => 'e1ad5045d6e6526188650e91ef930fe47ad4a191'
+
 end
